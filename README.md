@@ -1,2 +1,1 @@
-# security-2a443f
-insecure protocols / weak ciphers vulnerability
+## https://github.com/gratipay/security-2a443f/issues/1
